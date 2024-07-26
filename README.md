@@ -15,7 +15,7 @@ For more details on the original MaskCon approach, please refer to the [MaskCon 
 
 ## Documentation
 
-[Documentation](https://linktodocumentation](https://github.com/RajPopat/MaskCon-with-binary-valued-attributes/blob/main/MaskCon%20Presentation.pdf)
+[Documentation](https://github.com/RajPopat/MaskCon-with-binary-valued-attributes/blob/main/MaskCon%20Presentation.pdf)
 
 
 ## Feedback
