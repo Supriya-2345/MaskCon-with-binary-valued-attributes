@@ -13,6 +13,9 @@ Key features of our approach include:
 
 For more details on the original MaskCon approach, please refer to the [MaskCon repository](https://github.com/MrChenFeng/MaskCon_CVPR2023).
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/15608253-a411-40d2-a21a-7a7a6733d3bb)
+
+
 ## Documentation
 
 [Documentation](https://github.com/RajPopat/MaskCon-with-binary-valued-attributes/blob/main/MaskCon%20Presentation.pdf)
