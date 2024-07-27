@@ -27,6 +27,6 @@ If you have any feedback, please reach out to us at
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rajpopat.github.io/RajPopatPortfolio.github.io/#portfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rajpopat043)
+[Github](https://github.com/Supriya-2345)
+[![linkedin](https://www.linkedin.com/in/supriya-rawat-0a7585236/)
 
