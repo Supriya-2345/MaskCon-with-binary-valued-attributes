@@ -28,5 +28,5 @@ If you have any feedback, please reach out to us at
 
 ## 🔗 Links
 [Github](https://github.com/Supriya-2345)
-[![linkedin](https://www.linkedin.com/in/supriya-rawat-0a7585236/)
+[linkedin](https://www.linkedin.com/in/supriya-rawat-0a7585236/)
 
